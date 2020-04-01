@@ -1,0 +1,1 @@
+Great. You've mastered basic refactoring techniques: Pull up a field, pull up a method, Encapsulate a collection, extract a subclass, pull up the body of a constructor, push down a method, push down a field, extract an interface, collapse a hierarchy, replace inheritance with delegation.
